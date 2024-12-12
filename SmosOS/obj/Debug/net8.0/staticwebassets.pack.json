@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\css\\smosOS.css",
+      "PackagePath": "staticwebassets\\css\\smosOS.css"
+    },
+    {
       "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

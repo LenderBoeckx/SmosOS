@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\projects\\management_systeem\\SmosOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\broodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\broodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\leverancier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\leverancier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:46:00.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:35:48.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Leverancier.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Leverancier.cs",
-              "RelativeDocumentMoniker": "Models\\Leverancier.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Leverancier.cs",
-              "RelativeToolTip": "Models\\Leverancier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:01:28.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Klant.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Klant.cs",
-              "RelativeDocumentMoniker": "Models\\Klant.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Klant.cs",
-              "RelativeToolTip": "Models\\Klant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:01:07.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Ingredient.cs",
-              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Ingredient.cs",
-              "RelativeToolTip": "Models\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:00:34.002Z",
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T17:22:33.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Broodje.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Broodje.cs",
-              "RelativeDocumentMoniker": "Models\\Broodje.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Broodje.cs",
-              "RelativeToolTip": "Models\\Broodje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:00:07.019Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T17:19:11.809Z",
               "EditorCaption": ""
             }
           ]

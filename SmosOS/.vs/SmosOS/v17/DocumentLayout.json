@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\broodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\broodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\orderbroodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\orderbroodje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\leverancier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\leverancier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B35863-225A-4286-8F28-15298167E7F5}|SmosOS.csproj|c:\\projects\\management_systeem\\smosos\\models\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderBroodje.cs",
+              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\OrderBroodje.cs",
+              "RelativeDocumentMoniker": "Models\\OrderBroodje.cs",
+              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\OrderBroodje.cs",
+              "RelativeToolTip": "Models\\OrderBroodje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:45:25.734Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,20 +57,20 @@
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wDMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:46:00.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
               "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:35:48.798Z",
               "EditorCaption": ""
@@ -85,12 +98,11 @@
               "RelativeToolTip": "Models\\Klant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:01:07.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T14:01:07.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "Models\\Ingredient.cs",
@@ -98,21 +110,7 @@
               "RelativeToolTip": "Models\\Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:00:34.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Broodje.cs",
-              "DocumentMoniker": "C:\\projects\\management_systeem\\SmosOS\\Models\\Broodje.cs",
-              "RelativeDocumentMoniker": "Models\\Broodje.cs",
-              "ToolTip": "C:\\projects\\management_systeem\\SmosOS\\Models\\Broodje.cs",
-              "RelativeToolTip": "Models\\Broodje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:00:07.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T14:00:34.002Z"
             }
           ]
         }

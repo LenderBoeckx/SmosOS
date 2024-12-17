@@ -1,2 +1,14 @@
-﻿body {
+﻿nav {
+    background-color: #5adb8e !important;
+    border: none;
+    border-radius: 0 0 20px 20px;
+}
+
+a:hover {
+    color: #eda751;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
 }

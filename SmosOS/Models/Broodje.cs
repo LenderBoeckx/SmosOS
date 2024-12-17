@@ -13,6 +13,7 @@ namespace SmosOS.Models
         public Decimal Prijs { get; set; }
         [Required]
         public bool Voorraad { get; set; }
+        public string Afbeelding { get; set; }
 
         //constraints
         public ICollection<OrderBroodje> OrderBroodjes { get; set; }

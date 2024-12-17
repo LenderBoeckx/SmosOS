@@ -17,6 +17,122 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\Achtergrond.png",
+      "PackagePath": "staticwebassets\\images\\Achtergrond.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_aardappelsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_aardappelsla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_eiersla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_eiersla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_gezond.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_gezond.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_hesp.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_hesp.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kaas.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_kaas.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kip.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_kip.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_krabsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_krabsla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_steakTartaar.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_steakTartaar.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_tonijnsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_tonijnsla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_zalm_pesto.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Broodje_zalm_pesto.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Argentijns.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hamburger_Argentijns.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Mexicaans.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hamburger_Mexicaans.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_dubbel.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hamburger_dubbel.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_normaal.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hamburger_normaal.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_spek.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hamburger_spek.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_gehakt.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hotdog_gehakt.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_normaal.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hotdog_normaal.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_smos.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Hotdog_smos.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_gerookteZalm.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Panini_gerookteZalm.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_mozarella.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Panini_mozarella.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_aardappelsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_aardappelsla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_eiersla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_eiersla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_hesp.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_hesp.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kaas.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_kaas.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kip.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_kip.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_krabsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_krabsla.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_rosbief.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_rosbief.png"
+    },
+    {
+      "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_tonijnsla.png",
+      "PackagePath": "staticwebassets\\images\\broodjes\\Smos_tonijnsla.png"
+    },
+    {
       "Id": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

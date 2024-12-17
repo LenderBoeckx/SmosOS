@@ -1,11 +1,19 @@
 html {
-  font-size: 14px;
+  font-size: 1rem;
+  padding: 0;
+  margin: 0;
 }
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 1.1rem;
   }
+
+}
+@media (min-width: 577px) {
+    nav {
+        height: 7rem;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -18,5 +26,9 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    
+    background-image: url("/images/Achtergrond.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }

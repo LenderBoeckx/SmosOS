@@ -1,36 +1,33 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SmosOS.Areas.Identity.Data;
 using SmosOS.Models;
 
 namespace SmosOS.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<CustomUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
 
-        public DbSet<Adres> Adres { get; set; }
-        public DbSet<Broodje> Broodje { get; set; }
-        public DbSet<BroodjeIngredient> BroodjeIngredient { get; set; }
-        public DbSet<Ingredient> Ingredient { get; set; }
-        public DbSet<IngredientLeverancier> IngredientLeverancier { get; set; }
-        public DbSet<Klant> Klant { get; set; }
-        public DbSet<Leverancier> Leverancier { get; set; }
-        public DbSet<Order> Order { get; set; }
-        public DbSet<OrderBroodje> OrderBroodje { get; set; }
+        public DbSet<Broodje> Broodjes { get; set; }
+        public DbSet<BroodjeIngredient> BroodjeIngredienten { get; set; }
+        public DbSet<Ingredient> Ingredienten { get; set; }
+        public DbSet<IngredientLeverancier> IngredientLeveranciers { get; set; }
+        public DbSet<Leverancier> Leveranciers { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderBroodje> OrderBroodjes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Adres>().ToTable("Adres");
             modelBuilder.Entity<Broodje>().ToTable("Broodje");
             modelBuilder.Entity<BroodjeIngredient>().ToTable("BroodjeIngredient");
             modelBuilder.Entity<Ingredient>().ToTable("Ingredient");
             modelBuilder.Entity<IngredientLeverancier>().ToTable("IngredientLeverancier");
-            modelBuilder.Entity<Klant>().ToTable("Klant");
             modelBuilder.Entity<Leverancier>().ToTable("Leverancier");
             modelBuilder.Entity<Order>().ToTable("Order");
             modelBuilder.Entity<OrderBroodje>().ToTable("OrderBroodje");
@@ -70,6 +67,12 @@ namespace SmosOS.Data
                 .WithMany(x => x.OrderBroodjes)
                 .HasForeignKey(p => p.BroodjeID)
                 .IsRequired();
+
+            modelBuilder.Entity<Order>()
+               .HasOne(o => o.Klant)
+               .WithMany()
+               .HasForeignKey(o => o.KlantID)
+               .IsRequired();
         }
     }
 }

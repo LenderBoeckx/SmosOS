@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using SmosOS.Areas.Identity.Data;
+using System.ComponentModel.DataAnnotations;
 
 namespace SmosOS.Models
 {
@@ -7,7 +8,7 @@ namespace SmosOS.Models
         public string OrderID { get; set; }
         [Required]
         public string KlantID { get; set; }
-        public Klant Klant { get; set; }
+        public CustomUser Klant { get; set; }
         [Required]
         public Decimal Prijs { get; set; }
         [Required]

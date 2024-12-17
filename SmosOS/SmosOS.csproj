@@ -18,8 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
-    <Folder Include="wwwroot\images\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\User\" />
+    <Folder Include="wwwroot\images\broodjes\" />
   </ItemGroup>
 
 </Project>

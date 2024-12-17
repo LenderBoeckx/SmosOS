@@ -1,0 +1,32 @@
+﻿@model SmosOS.ViewModels.BroodjesOverviewViewModel
+@{
+    ViewData["Title"] = "Broodjes";
+}
+
+<div>
+    <h1 class="display-4">
+        Onze Broodjes
+    </h1>
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.Broodjes[0].Naam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Broodjes[0].Omschrijving)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Broodjes[0].Prijs)
+            </th>
+            @foreach(var broodje in Model.Broodjes){
+                <tr>
+                    <td><img src="/images/@broodje.Afbeelding" /></td>
+                    <td>@broodje.Naam</td>
+                    <td>@broodje.Omschrijving</td>
+                    <td>€ @broodje.Prijs</td>
+                </tr>
+            }
+        </tr>
+    </table>
+</div>

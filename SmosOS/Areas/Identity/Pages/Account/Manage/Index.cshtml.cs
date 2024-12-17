@@ -9,17 +9,18 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using SmosOS.Areas.Identity.Data;
 
 namespace SmosOS.Areas.Identity.Pages.Account.Manage
 {
     public class IndexModel : PageModel
     {
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly UserManager<CustomUser> _userManager;
+        private readonly SignInManager<CustomUser> _signInManager;
 
         public IndexModel(
-            UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager)
+            UserManager<CustomUser> userManager,
+            SignInManager<CustomUser> signInManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -58,18 +59,27 @@ namespace SmosOS.Areas.Identity.Pages.Account.Manage
             [Phone]
             [Display(Name = "Phone number")]
             public string PhoneNumber { get; set; }
+            [PersonalData, MaxLength(50, ErrorMessage = "De ingevulde naam is te lang. De maximale lengte is 50"), Required]
+
+            public string Familienaam { get; set; }
+            [PersonalData, Required]
+            public string Voornaam { get; set; }
         }
 
-        private async Task LoadAsync(IdentityUser user)
+        private async Task LoadAsync(CustomUser user)
         {
             var userName = await _userManager.GetUserNameAsync(user);
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
+            var Naam = await Task.FromResult(user.Familienaam);
+            var Voornaam = await Task.FromResult(user.Voornaam);
 
             Username = userName;
 
             Input = new InputModel
             {
-                PhoneNumber = phoneNumber
+                PhoneNumber = phoneNumber,
+                Familienaam = Naam,
+                Voornaam = Voornaam,
             };
         }
 
@@ -109,7 +119,10 @@ namespace SmosOS.Areas.Identity.Pages.Account.Manage
                     return RedirectToPage();
                 }
             }
+            user.Familienaam = Input.Familienaam;
+            user.Voornaam = Input.Voornaam;
 
+            await _userManager.UpdateAsync(user);
             await _signInManager.RefreshSignInAsync(user);
             StatusMessage = "Your profile has been updated";
             return RedirectToPage();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qonFV1hYVnMou/D8C/rSRsjh1tuYJDtOgfM6LWFm6WI=",
+  "Hash": "G+8rbBwbNeOsk6ITTy4mFB7fFLfKZceHjegaUBugGgU=",
   "Source": "SmosOS",
   "BasePath": "_content/SmosOS",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "17memgrjib",
+      "Integrity": "3e2bNWh6TRVt+xIG6kbytSmdLPJ91j52AdtNbHjt5sQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dyjx89twm7",
-      "Integrity": "u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=",
+      "Fingerprint": "rghw16ix1x",
+      "Integrity": "a/ma9tvWVPJpY0KZ0dplXLPA9DvrLYAzjb5PQejIlcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\smosOS.css"
@@ -120,6 +120,615 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\Achtergrond.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/Achtergrond#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e4re8kszxq",
+      "Integrity": "MifyHcJO5qSnCzVpWUrttxkr8R50sXr6EVJ3RfzqKeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Achtergrond.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_aardappelsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_aardappelsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m44nqkopgf",
+      "Integrity": "pl754sFSFd0nM+JIbf2VNZLz6n2URA8jh4WZQckq2Es=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_aardappelsla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_eiersla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_eiersla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c4eoqkqw9o",
+      "Integrity": "fCcpqKoUhgNLS4Q4MsL+Sa0pNTC8FbHkOmfSk4JDGuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_eiersla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_gezond.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_gezond#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12f61yfff7",
+      "Integrity": "uaqqfmML46tRQgE3xQObefwhkRypcOplfPKagIW6YTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_gezond.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_hesp.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_hesp#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dvr75p4c5v",
+      "Integrity": "2fFHXjcK/VwnlFmGzAXAASDETx6PkUjK5dzfY1FX0So=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_hesp.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kaas.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_kaas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68bofne4up",
+      "Integrity": "1lnUY7j8Zddo88AXovETZWzuMjnXDPcT/p+niN3YTOE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_kaas.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kip.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_kip#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w4fkah70ol",
+      "Integrity": "oCeZpXNtbGUee/bh7LH2gYU0FJlxYvurB6dW9XF5beM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_kip.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_krabsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_krabsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d62nh11v85",
+      "Integrity": "O3BMQv6KimGGjD6o2gGdSbIIga+LLpcV7xaNiYauNyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_krabsla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_steakTartaar.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_steakTartaar#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "94wvs5qx9v",
+      "Integrity": "p5szLwzYre67h2rQs9ZLyWhiOaF8eiuFGKdyaCK1iI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_steakTartaar.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_tonijnsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_tonijnsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdq56fymz5",
+      "Integrity": "xxbOq8eX2eMW6CMLFVar1BjPoK1TCFh8hIjtWrgJZQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_tonijnsla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_zalm_pesto.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Broodje_zalm_pesto#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bs1kcyztco",
+      "Integrity": "Cwo0y5MuOIQ4BCvI6fUk/Y0kw/JWOVEo7bysRj7QcnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Broodje_zalm_pesto.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Argentijns.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hamburger_Argentijns#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jc9anhzyh8",
+      "Integrity": "01iutzqUyL4DoUeNd8YffQ6cBbSaUeH3CbWwllo0Aiw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hamburger_Argentijns.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_dubbel.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hamburger_dubbel#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fzar1exyp",
+      "Integrity": "MG/KAV/7cvX954VO5PrZMrrJ30k20sAiryAXfWCbr40=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hamburger_dubbel.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Mexicaans.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hamburger_Mexicaans#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2orx8y5slt",
+      "Integrity": "UioSaKPSRfIpkHD55FO5KSXMTuRauoxI/13tyPJ9FTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hamburger_Mexicaans.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_normaal.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hamburger_normaal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "knhi1m2xr1",
+      "Integrity": "4EKkNm+iSDBJo6h76ou9gUeKJObuWNUC1RZp6a2ic88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hamburger_normaal.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_spek.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hamburger_spek#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqwtdshc42",
+      "Integrity": "/3ezvnjk9fwWkxvCnsHvMjQy06Wx8BJSPkLBMVFdTAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hamburger_spek.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_gehakt.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hotdog_gehakt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ydqp5aq5hg",
+      "Integrity": "KkFj56oCc4KO2kARNhImAadRUoTYvSEdAte/G9fA36I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hotdog_gehakt.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_normaal.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hotdog_normaal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cklyora2a1",
+      "Integrity": "VNpvaAeEl+a5IvG7arEGdsUnvXwBRWsgRSKWNiXXEh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hotdog_normaal.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_smos.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Hotdog_smos#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh3gjmqfhw",
+      "Integrity": "rOBatWyR/1UAM01I+OUYee7O1kmy4hnYjw59MJ3E2Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Hotdog_smos.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_gerookteZalm.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Panini_gerookteZalm#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4geakzubo3",
+      "Integrity": "pAdBxBm6sfAqzD/gpLN3uyI0FHpQnZpIgRfCpLAZUUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Panini_gerookteZalm.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_mozarella.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Panini_mozarella#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zricvwnsn2",
+      "Integrity": "8abfCQC22W/OnuhPTwDFDzc0L/zitfp5vT+zTnN/kmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Panini_mozarella.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_aardappelsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_aardappelsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9z8vok5ri",
+      "Integrity": "fTxYVLWR5azzOyhFqaA7ORqyIRUjG3AHjrDUjKHHoQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_aardappelsla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_eiersla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_eiersla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1e12u9d5f9",
+      "Integrity": "iSVQWv2/QYhKB4mKJkLvt4Fxt4v14xg11ZP509/yl2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_eiersla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_hesp.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_hesp#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ukfc73i0bv",
+      "Integrity": "IrP9IvxQWN/0WVLNIhCqMluUh7GyAuf7MbZVIqudTjk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_hesp.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kaas.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_kaas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eljubi188n",
+      "Integrity": "skG0U0ZqeAMigNgjW5r5+bhcUqget6aTT1rOWyXh6Xw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_kaas.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kip.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_kip#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lbgfrifmvw",
+      "Integrity": "nwynW3iU/EKrLAopml5USlvd6QN/xWvtlgEZP42L99M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_kip.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_krabsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_krabsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "osubtkr4a9",
+      "Integrity": "qC0yTtTKtM1sDY9RzmWq2HVmpF/WCzgCBQhNsYtr+uw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_krabsla.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_rosbief.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_rosbief#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhlqri05n8",
+      "Integrity": "t00Lnp7i/erYgRtrAgbrCSWjkl4TTwxv+/SuMdFRORc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_rosbief.png"
+    },
+    {
+      "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_tonijnsla.png",
+      "SourceId": "SmosOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\",
+      "BasePath": "_content/SmosOS",
+      "RelativePath": "images/broodjes/Smos_tonijnsla#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "98darwfp3i",
+      "Integrity": "h/PeAciHgY3E3GOUtSnE0RrIsMLfbGfoaD+LOcRJ43g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\broodjes\\Smos_tonijnsla.png"
     },
     {
       "Identity": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\js\\site.js",
@@ -2602,7 +3211,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.17memgrjib.css",
       "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2612,7 +3221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "595"
         },
         {
           "Name": "Content-Type",
@@ -2620,11 +3229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"3e2bNWh6TRVt+xIG6kbytSmdLPJ91j52AdtNbHjt5sQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:50:00 GMT"
+          "Value": "Sat, 14 Dec 2024 12:54:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2634,7 +3243,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "17memgrjib"
         },
         {
           "Name": "label",
@@ -2642,7 +3251,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-3e2bNWh6TRVt+xIG6kbytSmdLPJ91j52AdtNbHjt5sQ="
         }
       ]
     },
@@ -2657,7 +3266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "595"
         },
         {
           "Name": "Content-Type",
@@ -2665,11 +3274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"3e2bNWh6TRVt+xIG6kbytSmdLPJ91j52AdtNbHjt5sQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:50:00 GMT"
+          "Value": "Sat, 14 Dec 2024 12:54:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2679,7 +3288,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-3e2bNWh6TRVt+xIG6kbytSmdLPJ91j52AdtNbHjt5sQ="
         }
       ]
     },
@@ -2694,7 +3303,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "221"
         },
         {
           "Name": "Content-Type",
@@ -2702,11 +3311,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"a/ma9tvWVPJpY0KZ0dplXLPA9DvrLYAzjb5PQejIlcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 13:55:27 GMT"
+          "Value": "Sat, 14 Dec 2024 12:33:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2716,12 +3325,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-a/ma9tvWVPJpY0KZ0dplXLPA9DvrLYAzjb5PQejIlcI="
         }
       ]
     },
     {
-      "Route": "css/smosOS.dyjx89twm7.css",
+      "Route": "css/smosOS.rghw16ix1x.css",
       "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\css\\smosOS.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2731,7 +3340,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "221"
         },
         {
           "Name": "Content-Type",
@@ -2739,11 +3348,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"a/ma9tvWVPJpY0KZ0dplXLPA9DvrLYAzjb5PQejIlcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 13:55:27 GMT"
+          "Value": "Sat, 14 Dec 2024 12:33:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2753,7 +3362,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyjx89twm7"
+          "Value": "rghw16ix1x"
         },
         {
           "Name": "label",
@@ -2761,7 +3370,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-a/ma9tvWVPJpY0KZ0dplXLPA9DvrLYAzjb5PQejIlcI="
         }
       ]
     },
@@ -5064,6 +5673,2384 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Achtergrond.e4re8kszxq.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\Achtergrond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MifyHcJO5qSnCzVpWUrttxkr8R50sXr6EVJ3RfzqKeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 12:37:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4re8kszxq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Achtergrond.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MifyHcJO5qSnCzVpWUrttxkr8R50sXr6EVJ3RfzqKeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Achtergrond.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\Achtergrond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MifyHcJO5qSnCzVpWUrttxkr8R50sXr6EVJ3RfzqKeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 12:37:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MifyHcJO5qSnCzVpWUrttxkr8R50sXr6EVJ3RfzqKeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_aardappelsla.m44nqkopgf.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_aardappelsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1309965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pl754sFSFd0nM+JIbf2VNZLz6n2URA8jh4WZQckq2Es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:06:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m44nqkopgf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_aardappelsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pl754sFSFd0nM+JIbf2VNZLz6n2URA8jh4WZQckq2Es="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_aardappelsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_aardappelsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1309965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pl754sFSFd0nM+JIbf2VNZLz6n2URA8jh4WZQckq2Es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:06:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pl754sFSFd0nM+JIbf2VNZLz6n2URA8jh4WZQckq2Es="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_eiersla.c4eoqkqw9o.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_eiersla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1323357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCcpqKoUhgNLS4Q4MsL+Sa0pNTC8FbHkOmfSk4JDGuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:15:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c4eoqkqw9o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_eiersla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCcpqKoUhgNLS4Q4MsL+Sa0pNTC8FbHkOmfSk4JDGuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_eiersla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_eiersla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1323357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCcpqKoUhgNLS4Q4MsL+Sa0pNTC8FbHkOmfSk4JDGuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:15:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCcpqKoUhgNLS4Q4MsL+Sa0pNTC8FbHkOmfSk4JDGuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_gezond.12f61yfff7.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_gezond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1472829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uaqqfmML46tRQgE3xQObefwhkRypcOplfPKagIW6YTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12f61yfff7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_gezond.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uaqqfmML46tRQgE3xQObefwhkRypcOplfPKagIW6YTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_gezond.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_gezond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1472829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uaqqfmML46tRQgE3xQObefwhkRypcOplfPKagIW6YTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uaqqfmML46tRQgE3xQObefwhkRypcOplfPKagIW6YTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_hesp.dvr75p4c5v.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_hesp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2fFHXjcK/VwnlFmGzAXAASDETx6PkUjK5dzfY1FX0So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvr75p4c5v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_hesp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2fFHXjcK/VwnlFmGzAXAASDETx6PkUjK5dzfY1FX0So="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_hesp.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_hesp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2fFHXjcK/VwnlFmGzAXAASDETx6PkUjK5dzfY1FX0So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:46:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2fFHXjcK/VwnlFmGzAXAASDETx6PkUjK5dzfY1FX0So="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_kaas.68bofne4up.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kaas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1lnUY7j8Zddo88AXovETZWzuMjnXDPcT/p+niN3YTOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68bofne4up"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_kaas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lnUY7j8Zddo88AXovETZWzuMjnXDPcT/p+niN3YTOE="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_kaas.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kaas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1lnUY7j8Zddo88AXovETZWzuMjnXDPcT/p+niN3YTOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1lnUY7j8Zddo88AXovETZWzuMjnXDPcT/p+niN3YTOE="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_kip.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1471586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCeZpXNtbGUee/bh7LH2gYU0FJlxYvurB6dW9XF5beM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:18:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCeZpXNtbGUee/bh7LH2gYU0FJlxYvurB6dW9XF5beM="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_kip.w4fkah70ol.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_kip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1471586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCeZpXNtbGUee/bh7LH2gYU0FJlxYvurB6dW9XF5beM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:18:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w4fkah70ol"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_kip.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCeZpXNtbGUee/bh7LH2gYU0FJlxYvurB6dW9XF5beM="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_krabsla.d62nh11v85.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_krabsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O3BMQv6KimGGjD6o2gGdSbIIga+LLpcV7xaNiYauNyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d62nh11v85"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_krabsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O3BMQv6KimGGjD6o2gGdSbIIga+LLpcV7xaNiYauNyE="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_krabsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_krabsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O3BMQv6KimGGjD6o2gGdSbIIga+LLpcV7xaNiYauNyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O3BMQv6KimGGjD6o2gGdSbIIga+LLpcV7xaNiYauNyE="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_steakTartaar.94wvs5qx9v.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_steakTartaar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5szLwzYre67h2rQs9ZLyWhiOaF8eiuFGKdyaCK1iI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:34:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94wvs5qx9v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_steakTartaar.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p5szLwzYre67h2rQs9ZLyWhiOaF8eiuFGKdyaCK1iI0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_steakTartaar.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_steakTartaar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5szLwzYre67h2rQs9ZLyWhiOaF8eiuFGKdyaCK1iI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:34:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p5szLwzYre67h2rQs9ZLyWhiOaF8eiuFGKdyaCK1iI0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_tonijnsla.jdq56fymz5.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_tonijnsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxbOq8eX2eMW6CMLFVar1BjPoK1TCFh8hIjtWrgJZQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:11:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdq56fymz5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_tonijnsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxbOq8eX2eMW6CMLFVar1BjPoK1TCFh8hIjtWrgJZQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_tonijnsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_tonijnsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxbOq8eX2eMW6CMLFVar1BjPoK1TCFh8hIjtWrgJZQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:11:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxbOq8eX2eMW6CMLFVar1BjPoK1TCFh8hIjtWrgJZQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_zalm_pesto.bs1kcyztco.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_zalm_pesto.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1614015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cwo0y5MuOIQ4BCvI6fUk/Y0kw/JWOVEo7bysRj7QcnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:40:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bs1kcyztco"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Broodje_zalm_pesto.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cwo0y5MuOIQ4BCvI6fUk/Y0kw/JWOVEo7bysRj7QcnM="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Broodje_zalm_pesto.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Broodje_zalm_pesto.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1614015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cwo0y5MuOIQ4BCvI6fUk/Y0kw/JWOVEo7bysRj7QcnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:40:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cwo0y5MuOIQ4BCvI6fUk/Y0kw/JWOVEo7bysRj7QcnM="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_Argentijns.jc9anhzyh8.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Argentijns.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01iutzqUyL4DoUeNd8YffQ6cBbSaUeH3CbWwllo0Aiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:35:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jc9anhzyh8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hamburger_Argentijns.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-01iutzqUyL4DoUeNd8YffQ6cBbSaUeH3CbWwllo0Aiw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_Argentijns.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Argentijns.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01iutzqUyL4DoUeNd8YffQ6cBbSaUeH3CbWwllo0Aiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:35:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-01iutzqUyL4DoUeNd8YffQ6cBbSaUeH3CbWwllo0Aiw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_dubbel.4fzar1exyp.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_dubbel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MG/KAV/7cvX954VO5PrZMrrJ30k20sAiryAXfWCbr40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fzar1exyp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hamburger_dubbel.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG/KAV/7cvX954VO5PrZMrrJ30k20sAiryAXfWCbr40="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_dubbel.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_dubbel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MG/KAV/7cvX954VO5PrZMrrJ30k20sAiryAXfWCbr40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG/KAV/7cvX954VO5PrZMrrJ30k20sAiryAXfWCbr40="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_Mexicaans.2orx8y5slt.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Mexicaans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UioSaKPSRfIpkHD55FO5KSXMTuRauoxI/13tyPJ9FTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:32:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2orx8y5slt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hamburger_Mexicaans.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UioSaKPSRfIpkHD55FO5KSXMTuRauoxI/13tyPJ9FTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_Mexicaans.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_Mexicaans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UioSaKPSRfIpkHD55FO5KSXMTuRauoxI/13tyPJ9FTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:32:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UioSaKPSRfIpkHD55FO5KSXMTuRauoxI/13tyPJ9FTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_normaal.knhi1m2xr1.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_normaal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1495431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4EKkNm+iSDBJo6h76ou9gUeKJObuWNUC1RZp6a2ic88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:30:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "knhi1m2xr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hamburger_normaal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4EKkNm+iSDBJo6h76ou9gUeKJObuWNUC1RZp6a2ic88="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_normaal.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_normaal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1495431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4EKkNm+iSDBJo6h76ou9gUeKJObuWNUC1RZp6a2ic88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:30:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4EKkNm+iSDBJo6h76ou9gUeKJObuWNUC1RZp6a2ic88="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_spek.nqwtdshc42.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_spek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3ezvnjk9fwWkxvCnsHvMjQy06Wx8BJSPkLBMVFdTAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqwtdshc42"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hamburger_spek.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/3ezvnjk9fwWkxvCnsHvMjQy06Wx8BJSPkLBMVFdTAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hamburger_spek.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hamburger_spek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3ezvnjk9fwWkxvCnsHvMjQy06Wx8BJSPkLBMVFdTAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/3ezvnjk9fwWkxvCnsHvMjQy06Wx8BJSPkLBMVFdTAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_gehakt.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_gehakt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KkFj56oCc4KO2kARNhImAadRUoTYvSEdAte/G9fA36I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:28:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KkFj56oCc4KO2kARNhImAadRUoTYvSEdAte/G9fA36I="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_gehakt.ydqp5aq5hg.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_gehakt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KkFj56oCc4KO2kARNhImAadRUoTYvSEdAte/G9fA36I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:28:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydqp5aq5hg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hotdog_gehakt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KkFj56oCc4KO2kARNhImAadRUoTYvSEdAte/G9fA36I="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_normaal.cklyora2a1.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_normaal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1106995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VNpvaAeEl+a5IvG7arEGdsUnvXwBRWsgRSKWNiXXEh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cklyora2a1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hotdog_normaal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VNpvaAeEl+a5IvG7arEGdsUnvXwBRWsgRSKWNiXXEh8="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_normaal.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_normaal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1106995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VNpvaAeEl+a5IvG7arEGdsUnvXwBRWsgRSKWNiXXEh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VNpvaAeEl+a5IvG7arEGdsUnvXwBRWsgRSKWNiXXEh8="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_smos.oh3gjmqfhw.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_smos.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1779370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rOBatWyR/1UAM01I+OUYee7O1kmy4hnYjw59MJ3E2Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh3gjmqfhw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Hotdog_smos.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOBatWyR/1UAM01I+OUYee7O1kmy4hnYjw59MJ3E2Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Hotdog_smos.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Hotdog_smos.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1779370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rOBatWyR/1UAM01I+OUYee7O1kmy4hnYjw59MJ3E2Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOBatWyR/1UAM01I+OUYee7O1kmy4hnYjw59MJ3E2Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Panini_gerookteZalm.4geakzubo3.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_gerookteZalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1590339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pAdBxBm6sfAqzD/gpLN3uyI0FHpQnZpIgRfCpLAZUUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:41:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4geakzubo3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Panini_gerookteZalm.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pAdBxBm6sfAqzD/gpLN3uyI0FHpQnZpIgRfCpLAZUUU="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Panini_gerookteZalm.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_gerookteZalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1590339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pAdBxBm6sfAqzD/gpLN3uyI0FHpQnZpIgRfCpLAZUUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:41:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pAdBxBm6sfAqzD/gpLN3uyI0FHpQnZpIgRfCpLAZUUU="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Panini_mozarella.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_mozarella.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1501361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8abfCQC22W/OnuhPTwDFDzc0L/zitfp5vT+zTnN/kmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:40:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8abfCQC22W/OnuhPTwDFDzc0L/zitfp5vT+zTnN/kmc="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Panini_mozarella.zricvwnsn2.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Panini_mozarella.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1501361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8abfCQC22W/OnuhPTwDFDzc0L/zitfp5vT+zTnN/kmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:40:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zricvwnsn2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Panini_mozarella.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8abfCQC22W/OnuhPTwDFDzc0L/zitfp5vT+zTnN/kmc="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_aardappelsla.f9z8vok5ri.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_aardappelsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1897101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fTxYVLWR5azzOyhFqaA7ORqyIRUjG3AHjrDUjKHHoQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9z8vok5ri"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_aardappelsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fTxYVLWR5azzOyhFqaA7ORqyIRUjG3AHjrDUjKHHoQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_aardappelsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_aardappelsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1897101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fTxYVLWR5azzOyhFqaA7ORqyIRUjG3AHjrDUjKHHoQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fTxYVLWR5azzOyhFqaA7ORqyIRUjG3AHjrDUjKHHoQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_eiersla.1e12u9d5f9.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_eiersla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1513030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSVQWv2/QYhKB4mKJkLvt4Fxt4v14xg11ZP509/yl2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:16:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1e12u9d5f9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_eiersla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSVQWv2/QYhKB4mKJkLvt4Fxt4v14xg11ZP509/yl2Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_eiersla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_eiersla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1513030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSVQWv2/QYhKB4mKJkLvt4Fxt4v14xg11ZP509/yl2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:16:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSVQWv2/QYhKB4mKJkLvt4Fxt4v14xg11ZP509/yl2Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_hesp.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_hesp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrP9IvxQWN/0WVLNIhCqMluUh7GyAuf7MbZVIqudTjk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrP9IvxQWN/0WVLNIhCqMluUh7GyAuf7MbZVIqudTjk="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_hesp.ukfc73i0bv.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_hesp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrP9IvxQWN/0WVLNIhCqMluUh7GyAuf7MbZVIqudTjk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukfc73i0bv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_hesp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrP9IvxQWN/0WVLNIhCqMluUh7GyAuf7MbZVIqudTjk="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_kaas.eljubi188n.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kaas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"skG0U0ZqeAMigNgjW5r5+bhcUqget6aTT1rOWyXh6Xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eljubi188n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_kaas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-skG0U0ZqeAMigNgjW5r5+bhcUqget6aTT1rOWyXh6Xw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_kaas.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kaas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"skG0U0ZqeAMigNgjW5r5+bhcUqget6aTT1rOWyXh6Xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-skG0U0ZqeAMigNgjW5r5+bhcUqget6aTT1rOWyXh6Xw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_kip.lbgfrifmvw.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwynW3iU/EKrLAopml5USlvd6QN/xWvtlgEZP42L99M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:17:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lbgfrifmvw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_kip.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwynW3iU/EKrLAopml5USlvd6QN/xWvtlgEZP42L99M="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_kip.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_kip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwynW3iU/EKrLAopml5USlvd6QN/xWvtlgEZP42L99M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:17:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwynW3iU/EKrLAopml5USlvd6QN/xWvtlgEZP42L99M="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_krabsla.osubtkr4a9.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_krabsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC0yTtTKtM1sDY9RzmWq2HVmpF/WCzgCBQhNsYtr+uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:23:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "osubtkr4a9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_krabsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC0yTtTKtM1sDY9RzmWq2HVmpF/WCzgCBQhNsYtr+uw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_krabsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_krabsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC0yTtTKtM1sDY9RzmWq2HVmpF/WCzgCBQhNsYtr+uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:23:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC0yTtTKtM1sDY9RzmWq2HVmpF/WCzgCBQhNsYtr+uw="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_rosbief.lhlqri05n8.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_rosbief.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1372417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t00Lnp7i/erYgRtrAgbrCSWjkl4TTwxv+/SuMdFRORc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhlqri05n8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_rosbief.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t00Lnp7i/erYgRtrAgbrCSWjkl4TTwxv+/SuMdFRORc="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_rosbief.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_rosbief.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1372417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t00Lnp7i/erYgRtrAgbrCSWjkl4TTwxv+/SuMdFRORc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t00Lnp7i/erYgRtrAgbrCSWjkl4TTwxv+/SuMdFRORc="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_tonijnsla.98darwfp3i.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_tonijnsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h/PeAciHgY3E3GOUtSnE0RrIsMLfbGfoaD+LOcRJ43g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "98darwfp3i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/broodjes/Smos_tonijnsla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h/PeAciHgY3E3GOUtSnE0RrIsMLfbGfoaD+LOcRJ43g="
+        }
+      ]
+    },
+    {
+      "Route": "images/broodjes/Smos_tonijnsla.png",
+      "AssetFile": "C:\\projects\\management_systeem\\SmosOS\\wwwroot\\images\\broodjes\\Smos_tonijnsla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1519906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h/PeAciHgY3E3GOUtSnE0RrIsMLfbGfoaD+LOcRJ43g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 16:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h/PeAciHgY3E3GOUtSnE0RrIsMLfbGfoaD+LOcRJ43g="
         }
       ]
     },
@@ -9846,7 +12833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:51:24 GMT"
+          "Value": "Sat, 14 Dec 2024 13:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9883,7 +12870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:51:24 GMT"
+          "Value": "Sat, 14 Dec 2024 13:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9920,7 +12907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:51:24 GMT"
+          "Value": "Sat, 14 Dec 2024 13:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9965,7 +12952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:51:24 GMT"
+          "Value": "Sat, 14 Dec 2024 13:25:00 GMT"
         },
         {
           "Name": "Cache-Control",

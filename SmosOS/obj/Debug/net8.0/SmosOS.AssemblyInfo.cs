@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmosOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7c5225a790ad86cc9311abdaa7802463d5bbb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88670cff098acfb8cdf5ea562170242097e065ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmosOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmosOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
